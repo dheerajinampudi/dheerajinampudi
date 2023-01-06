@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 Dheeraj Inampudi
 - CTO/ Serverless Architect at Propellor.ai
-- Mathematician, Architect, coder, and an Bigdata analytics professional
-- Like two eyes, Engineering and SaaS Product
+- Mathematician, Architect, coder, and a Bigdata analytics professional
+- Engineering and SaaS Product are like two eyes
