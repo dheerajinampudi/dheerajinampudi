@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Dheeraj Inampudi
+- CTO/ Serverless Architect at Propellor.ai
+- Mathematician, Architect, coder, and an Bigdata analytics professional
+- Like two eyes, Engineering and SaaS Product
